@@ -1,0 +1,10 @@
+org\ltejeda\productservice\dto\ProductResponse.class
+org\ltejeda\productservice\dto\ProductRequest$ProductRequestBuilder.class
+org\ltejeda\productservice\dto\ProductResponse$ProductResponseBuilder.class
+org\ltejeda\productservice\repository\ProductRepository.class
+org\ltejeda\productservice\dto\ProductRequest.class
+org\ltejeda\productservice\model\Product.class
+org\ltejeda\productservice\ProductServiceApplication.class
+org\ltejeda\productservice\model\Product$ProductBuilder.class
+org\ltejeda\productservice\service\ProductService.class
+org\ltejeda\productservice\controller\ProductController.class

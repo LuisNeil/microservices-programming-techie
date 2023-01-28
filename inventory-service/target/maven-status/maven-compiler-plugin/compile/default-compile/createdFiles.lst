@@ -1,0 +1,5 @@
+org\ltejeda\inventoryservice\model\Inventory.class
+org\ltejeda\inventoryservice\controller\InventoryController.class
+org\ltejeda\inventoryservice\service\InventoryService.class
+org\ltejeda\inventoryservice\repository\InventoryRepository.class
+org\ltejeda\inventoryservice\InventoryServiceApplication.class

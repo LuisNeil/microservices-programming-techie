@@ -1,0 +1,8 @@
+org\ltejeda\orderservice\dto\OrderLineItemsDto.class
+org\ltejeda\orderservice\model\OrderLineItems.class
+org\ltejeda\orderservice\dto\OrderRequest.class
+org\ltejeda\orderservice\controller\OrderController.class
+org\ltejeda\orderservice\model\Order.class
+org\ltejeda\orderservice\repository\OrderRepository.class
+org\ltejeda\orderservice\service\OrderService.class
+org\ltejeda\orderservice\OrderServiceApplication.class
